@@ -11,7 +11,7 @@ func handler(w http.ResponseWriter, r *http.Request) {
 		<html>
 		<head><title>Welcome to GDG!</title></head>
 		<body style="font-family: sans-serif; text-align: center; margin-top: 100px;">
-			<h1>Hello, GDG Soongsil 👋 v2</h1>
+			<h1>Hello, GDG Soongsil 👋 V2</h1>
 			<p>You're running a Go app on Kubernetes ☸️ via GitOps ⚙️ with Argo CD 🚀</p>
 			<p style="color: gray;">%s</p>
 		</body>
